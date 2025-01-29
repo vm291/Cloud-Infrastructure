@@ -3,8 +3,6 @@ Q2: MMLSpark Docker and Cloud Deployment
 1. Dockerfile submission: 
 [Dockerfile_submission.txt](https://github.com/user-attachments/files/18593112/Dockerfile_submission.txt)
 
-CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root", "--NotebookApp.token=''", "--NotebookApp.password=''"]
-
 2. Jupyter notebook running in the container
 <img width="1512" alt="Running Jupyter from Container" src="https://github.com/user-attachments/assets/120f0667-480d-4c5d-a78a-0f0cac729bc3" />
 
